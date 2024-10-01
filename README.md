@@ -8,6 +8,7 @@ Key features include:
 
 - Estimated passenger volumes for all populated origin-destination (OD) pairs
 - Aggregation by month, day of the week, and hour of day
+     - Data is averaged across the month—highest time granularity is an average Monday in September at 2pm for example
 - Name, ID, and approximate latitude and longitude of origin and destination subway complexes
 
 ### Data Sources
